@@ -1,0 +1,5 @@
+# Ignore virtual env
+env/
+
+# Ignore reference file
+reference.ipynb
